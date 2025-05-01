@@ -98,6 +98,7 @@ print(f"The correct codeword is : " + " " .join(map(str,add)))
 ![image](https://github.com/user-attachments/assets/bf0de2c1-3424-49de-86f7-0c4f7c176ea3)
 
 # Calculation
+![WhatsApp Image 2025-05-01 at 11 03 34 PM](https://github.com/user-attachments/assets/4cb19f14-a684-4538-9fd0-f708270640b8)
 
 # Results
 
